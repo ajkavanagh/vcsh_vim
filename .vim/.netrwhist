@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/alex/Projects/Canonical/vagrant/charms/trusty/neutron-api'
+let g:netrw_dirhist_2='/Users/alex/Projects/Canonical/vagrant/charms/trusty/neutron-api/hooks'
+let g:netrw_dirhist_3='/Users/alex/Projects/Canonical/vagrant/charms/trusty/neutron-api'
+let g:netrw_dirhist_4='/Users/alex/Projects/Canonical/vagrant/charms/trusty/neutron-api/hooks'
+let g:netrw_dirhist_5='/Users/alex/Projects/Canonical/vagrant/charms/trusty/neutron-api/hooks/charmhelpers'
+let g:netrw_dirhist_6='/Users/alex/Projects/Canonical/vagrant/charms/trusty/neutron-api/hooks/charmhelpers/core'
+let g:netrw_dirhist_7='/Users/alex/Projects/Canonical/vagrant/charms/trusty/keystone'
